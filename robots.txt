@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /dyns5/sitemap.xml
