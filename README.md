@@ -1,4 +1,4 @@
-Visit **[dynsustech.github.io](https://dynsustech.github.io)** 🚀
+Visit **[dynsustech.github.io/dyns5](https://dynsustech.github.io/dyns5)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
